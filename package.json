@@ -1,0 +1,24 @@
+{
+  "name": "@matrixd/test-8m",
+  "version": "0.1.0",
+  "description": "A test package 8MB in size",
+  "main": "index.js",
+  "homepage": "https://github.com/matrixD-io/test-8M-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matrixD-io/test-8M-js.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "index.js",
+    "8M.bin",
+    "README.md"
+  ],
+  "author": "matrixD, inc.",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
